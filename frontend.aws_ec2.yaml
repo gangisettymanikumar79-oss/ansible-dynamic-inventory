@@ -16,6 +16,7 @@ filters:
 keyed_groups:
   - key: tags.Name
     separator: ''
+use_extra_vars: yes
     
 
   
