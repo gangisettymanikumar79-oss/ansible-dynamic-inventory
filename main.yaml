@@ -1,5 +1,5 @@
 - name: configure frontend server
-  hosts:  frontend
+  hosts:  localhost
   become: yes
   serial:
   tasks:
